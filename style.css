@@ -1,0 +1,26 @@
+.select {
+	border: solid black 1px;
+
+}
+
+
+.board {
+	border: solid black 1px;
+
+}
+
+#playerchoicepikebutton {
+	background-image: url("pike.png");
+	width: 128px;
+	height: 128px;
+}
+#playerchoiceskirmbutton {
+	background-image: url("skirm.png");
+	width: 128px;
+	height: 128px;
+}
+#playerchoicecavbutton {
+	background-image: url("cav.png");
+	width: 128px;
+	height: 128px;
+}
